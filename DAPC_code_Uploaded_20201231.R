@@ -6,7 +6,7 @@ library("poppr")
 
 # Choose the directory where your data file is
 
-setwd("~/Dropbox/UPRRP_Maestria/Investigacion_Iguana/Iguana_Source_Manuscript/Iguana_source_manuscript_data/Source_manuscript_microsatellites/Manuscript_Analysis_MSat/DAPC_Test_20181205/DAPC_Iguana_test")
+setwd("XXX directory")
 ###### L6 subset #########
 # Load datafile
 Loci_L6 <- read.genalex("loci6_sampling_sites_20180822.txt", sep = "\t") 
