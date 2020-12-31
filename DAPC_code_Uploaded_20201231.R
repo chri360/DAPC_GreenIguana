@@ -109,7 +109,7 @@ L6_AdmixturePlot<-compoplot(dapcGrouping_L6, subset=temp, posi=list(x=-3,y=-.05)
 
 # Choose the directory where your data file is
 
-setwd("~/Dropbox/UPRRP_Maestria/Investigacion_Iguana/Iguana_Source_Manuscript/Iguana_source_manuscript_data/Source_manuscript_microsatellites/Manuscript_Analysis_MSat/DAPC_Test_20181205/DAPC_Iguana_test")
+setwd("XX directory")
 
 ###### W6 subset #########
 # Load datafile
